@@ -48,9 +48,8 @@ logit (const char * fmt, ...)
 }
 
 
-double do_flops (struct bsp_type * a) __attribute__((noinline));
 
-__attribute__((noinline)) double
+static double __attribute__((noinline)) 
 do_flops (struct bsp_type * a) 
 {
     int i;
@@ -60,7 +59,7 @@ do_flops (struct bsp_type * a)
     double val;
     double mpy;
 
-    FILE *fs;
+    FILE *fs = NULL;
     struct timespec start;
     struct timespec end;
 
@@ -70,10 +69,10 @@ do_flops (struct bsp_type * a)
 
 	    fs = fopen(filename,"a");
 
-        if (fs == NULL) {
-            fprintf(stderr, "Could not open file %s\n", filename);
-            return -1.1;
-        }
+	    if (fs == NULL) {
+		    fprintf(stderr, "Could not open file %s\n", filename);
+		    return -1.1;
+	    }
 
 	    clock_gettime(CLOCK_REALTIME, &start);
 
@@ -82,29 +81,30 @@ do_flops (struct bsp_type * a)
     // do the actual floating point math
     for (i = 0; i < a->flops; i++) {
     	val = x;
-	    mpy = x;
+	mpy = x;
     	sum = sum + mpy*val;
     }
 
     if (a->rank == 0){
 	    clock_gettime(CLOCK_REALTIME, &end);
-	    long s_ns = start.tv_sec*1000000000 + start.tv_nsec;
-	    long e_ns = end.tv_sec*1000000000 + end.tv_nsec;
-	    fprintf(fs,"%lu\n", e_ns - s_ns);
+	    long long s_ns = start.tv_sec*1000000000 + start.tv_nsec;
+	    long long e_ns = end.tv_sec*1000000000 + end.tv_nsec;
+	    if (e_ns < s_ns) 
+		    printf("WARNING WARNING WARNING: negative time difference in %s\n", __func__);
+	    fprintf(fs,"%lld\n", e_ns - s_ns);
 	    fclose(fs);
     }
 
     return sum;
 }
 
-double do_reads (struct bsp_type * a) __attribute__((noinline));
 
-__attribute__((noinline)) double
+static double __attribute__((noinline)) 
 do_reads (struct bsp_type * a)
 {
     int i;
     double sum;
-    FILE *fs;
+    FILE *fs = NULL;
     struct timespec start;
     struct timespec end;
     int * arr = NULL;
@@ -112,17 +112,17 @@ do_reads (struct bsp_type * a)
     arr = malloc(a->reads*sizeof(int));
     if (!arr) {
         fprintf(stderr, "Could not allocate array\n");
-        return;
+        return -1.1;
     }
     
     if (a->rank == 0){
 	    char filename[sizeof "reads_c_128_unopt.dat"];
 	    sprintf(filename, "reads_c_%d_unopt.dat", a->size);
 	    fs = fopen(filename, "a");
-        if (!fs) {
-            fprintf(stderr, "Could not open file %s in %s\n", filename, __func__);
-            return;
-        }
+	    if (!fs) {
+		    fprintf(stderr, "Could not open file %s in %s\n", filename, __func__);
+		    return -1.1;
+	    }
 
 	    clock_gettime(CLOCK_REALTIME, &start);
     }
@@ -134,20 +134,22 @@ do_reads (struct bsp_type * a)
 
     if (a->rank == 0) {
 	    clock_gettime(CLOCK_REALTIME, &end);
-	    long s_ns = start.tv_sec*1000000000 + start.tv_nsec;
-	    long e_ns = end.tv_sec*1000000000 + end.tv_nsec;
-	    fprintf(fs,"%lu\n", e_ns - s_ns);
+	    long long s_ns = start.tv_sec*1000000000 + start.tv_nsec;
+	    long long e_ns = end.tv_sec*1000000000 + end.tv_nsec;
+	    if (e_ns < s_ns) 
+		    printf("WARNING WARNING WARNING: negative time difference in %s\n", __func__);
+	    fprintf(fs,"%lld\n", e_ns - s_ns);
 	    fclose(fs);
     }
     return sum;
 }
 
 
-static void 
+static void __attribute__((noinline))
 do_writes (struct bsp_type * a)
 {
     int i;
-    FILE *fs;
+    FILE *fs = NULL;
     struct timespec start;
     struct timespec end;
     int * arr  = NULL;
@@ -174,23 +176,24 @@ do_writes (struct bsp_type * a)
 
     if (a->rank == 0) {
 	    clock_gettime(CLOCK_REALTIME, &end);
-	    long s_ns = start.tv_sec*1000000000 + start.tv_nsec;
-	    long e_ns = end.tv_sec*1000000000 + end.tv_nsec;
-	    fprintf(fs,"%lu\n", e_ns - s_ns);
+	    long long s_ns = start.tv_sec*1000000000 + start.tv_nsec;
+	    long long e_ns = end.tv_sec*1000000000 + end.tv_nsec;
+	    if (e_ns < s_ns) 
+		    printf("WARNING WARNING WARNING: negative time difference in %s\n", __func__);
+	    fprintf(fs,"%lldn", e_ns - s_ns);
 	    fclose(fs);
     }
 }
 
 
-static void 
+static void __attribute__((noinline))
 do_comms (struct bsp_type * a)
 {
     int a1;
-    int b;
     int i;
     int neighbor_fwd;
     int neighbor_bck;
-    FILE *fs;
+    FILE *fs = NULL;
     struct timespec start;
     struct timespec end;
 
@@ -229,17 +232,19 @@ do_comms (struct bsp_type * a)
             return;
         }
 
-    	MPI_Barrier(a->comm_w);
-
     }
 
     if (a->rank == 0) {
         clock_gettime(CLOCK_REALTIME, &end);
-        long s_ns = start.tv_sec*1000000000 + start.tv_nsec;
-        long e_ns = end.tv_sec*1000000000 + end.tv_nsec;
-        fprintf(fs, "%lu\n", e_ns - s_ns);
+        long long s_ns = start.tv_sec*1000000000 + start.tv_nsec;
+        long long e_ns = end.tv_sec*1000000000 + end.tv_nsec;
+	if (e_ns < s_ns) 
+		printf("WARNING WARNING WARNING: negative time difference in %s\n", __func__);
+        fprintf(fs, "%lld\n", e_ns - s_ns);
         fclose(fs);
     }
+
+    MPI_Barrier(a->comm_w);
    
     DEBUG_PRINT(a->rank, "Out of do_comms\n");
 }
@@ -254,7 +259,7 @@ do_compute (struct bsp_type * a)
 
     for (i = 0; i < a->elements; i++) {
     	do_flops(a);
-	    do_reads(a);
+	do_reads(a);
     	do_writes(a);
     }
 

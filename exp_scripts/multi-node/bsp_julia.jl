@@ -204,14 +204,14 @@ function do_comms(a)
 	end
     end
 
-    # wait for everyone to finish
-    MPI.Barrier(a.comm_world)
-
     if  a.rank == 0
         stop      = time_ns()
         write(fs,"$(stop- start)\n")
         close(fs)
     end
+
+    # wait for everyone to finish
+    MPI.Barrier(a.comm_world)
 
 end
 
