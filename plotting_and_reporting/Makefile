@@ -1,7 +1,7 @@
 
 all: plots
 
-plots: prep context-switches task-creations spawn-fetch ping-pong condvars channels
+plots: prep context-switches task-creations spawn-fetch ping-pong condvars channels bsp-stacked-10 bsp-stacked-100
 
 prep: .prepped.txt
 
@@ -25,6 +25,18 @@ condvars: data/condvar/*.dat cond_plot.py
 
 channels: data/channels/*.dat channel_plot.py
 	python3 ./channel_plot.py
+
+bsp_10_deps: data/bsp/comms_10/*.dat
+	rm -f data/bsp/comms_10/*.expframe.*
+
+bsp_100_deps: data/bsp/comms_100/*.dat
+	rm -f data/bsp/comms_100/*.expframe.*
+
+bsp-stacked-10: bsp_stacked.py bsp_10_deps
+	python3 ./bsp_stacked.py data/bsp/comms_10 bsp-stacked-comms-10.pdf
+
+bsp-stacked-100: bsp_stacked.py bsp_100_deps
+	python3 ./bsp_stacked.py data/bsp/comms_100 bsp-stacked-comms-100.pdf
 
 clean:
 	@rm -f *.pdf

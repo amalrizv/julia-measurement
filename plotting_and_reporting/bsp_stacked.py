@@ -51,7 +51,7 @@ class ExperimentFrame:
                 self.ops.append(op)
             if lang not in self.langs:
                 self.langs.append(lang)
-            if proc_count not in self.proc_counts:
+            if self.proc_counts not in self.proc_counts:
                 self.proc_counts.append(proc_count)
             if tp not in self.types:
                 self.types.append(tp)
