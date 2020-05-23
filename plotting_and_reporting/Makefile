@@ -1,5 +1,12 @@
 
-all: context-switches task-creations spawn-fetch ping-pong condvars channels
+all: plots
+
+plots: prep context-switches task-creations spawn-fetch ping-pong condvars channels
+
+prep: .prepped.txt
+
+.prepped.txt:
+	@./prep.sh
 
 context-switches: data/context-switches/julia_ctx_switch.dat data/context-switches/c_ctx_switch.dat context_switch_plot.py
 	python3 ./context_switch_plot.py
@@ -22,4 +29,4 @@ channels: data/channels/*.dat channel_plot.py
 clean:
 	@rm -f *.pdf
 
-.PHONY: all clean
+.PHONY: all clean plots prep
