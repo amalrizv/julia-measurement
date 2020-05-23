@@ -65,8 +65,8 @@ do_flops (struct bsp_type * a)
     struct timespec end;
 
     if (a->rank == 0){
-	    char filename[sizeof "flops_c_128.dat"];
-	    sprintf(filename, "flops_c_%d.dat", a->size);
+	    char filename[sizeof "flops_c_128_unopt.dat"];
+	    sprintf(filename, "flops_c_%d_unopt.dat", a->size);
 
 	    fs = fopen(filename,"a");
 
@@ -116,8 +116,8 @@ do_reads (struct bsp_type * a)
     }
     
     if (a->rank == 0){
-	    char filename[sizeof "reads_c_128.dat"];
-	    sprintf(filename, "reads_c_%d.dat", a->size);
+	    char filename[sizeof "reads_c_128_unopt.dat"];
+	    sprintf(filename, "reads_c_%d_unopt.dat", a->size);
 	    fs = fopen(filename, "a");
         if (!fs) {
             fprintf(stderr, "Could not open file %s in %s\n", filename, __func__);
@@ -161,8 +161,8 @@ do_writes (struct bsp_type * a)
     }
 
     if (a->rank == 0) {
-	    char filename[sizeof "writes_c_128.dat"];
-	    sprintf(filename, "writes_c_%d.dat", a->size);
+	    char filename[sizeof "writes_c_128_unopt.dat"];
+	    sprintf(filename, "writes_c_%d_unopt.dat", a->size);
 	    fs = fopen(filename, "a");
 	    clock_gettime(CLOCK_REALTIME, &start);
     }
@@ -211,8 +211,8 @@ do_comms (struct bsp_type * a)
          neighbor_fwd = a->rank+1;
 
     if (a->rank == 0){
-        char filename[sizeof "comms_c_128.dat"];
-        sprintf(filename, "comms_c_%d.dat", a->size);
+        char filename[sizeof "comms_c_128_unopt.dat"];
+        sprintf(filename, "comms_c_%d_unopt.dat", a->size);
         fs = fopen(filename,"a");
         clock_gettime(CLOCK_REALTIME, &start);
     }

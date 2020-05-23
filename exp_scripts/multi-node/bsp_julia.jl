@@ -1,13 +1,11 @@
 using Distributed
-#=
-#!/usr/bin/julia
-
 using MPI
-
 using DocOpt
+import MPI: Status
+
 
 include("cli.jl")
-=#
+
 mutable struct bsptype
     size     :: Int64
     rank     :: Int64
@@ -17,7 +15,53 @@ mutable struct bsptype
     reads    :: Int64
     writes   :: Int64
     comms    :: Int64
+    is_opt   :: Bool
     comm_world
+end
+
+const MYCOMMWORLD = Cint(1140850688)
+function MySend(buf::Array{Int64}, cnt::Cint, dst::Cint, tag::Cint, comm::Cint)
+	ccall((:MPI_Send, "libmpich"), Cint, 
+				   (Ptr{Cchar}, Cint, Cint, Cint, Cint, Cint),
+				   Base.cconvert(Ptr{Cchar}, buf), 
+				   cnt,
+				   Cint(1275068673),
+				   dst,
+				   tag,
+				   comm)
+	return nothing
+end
+
+function MyRecv!(buf::Array{Int64}, cnt::Cint, src::Cint, tag::Cint, comm::Cint)
+	stat_ref = Ref{Status}(MPI.STATUS_EMPTY)
+	ccall((:MPI_Recv, "libmpich"), Cint, 
+				   (Ptr{Cchar}, Cint, Cint, Cint, Cint, Cint, Ptr{Status}),
+				   Base.cconvert(Ptr{Cchar}, buf), 
+				   cnt,
+				   Cint(1275068673),
+				   src,
+				   tag,
+				   comm,
+				   stat_ref)
+	return stat_ref[]
+end
+
+function dump_exp_prefix(fhandle, a)
+	write(fhandle, "# iters=$(a.iters),elements=$(a.elements),flops=$(a.flops),comms=$(a.comms),reads=$(a.reads),writes=$(a.writes),is_opt=$(a.is_opt)\n")
+end
+
+
+function gen_fname(op_type::String, procs, is_opt)
+
+	str = op_type*"_julia_"*string(procs)
+
+	if is_opt
+	    str *= "_opt"
+	else
+	    str *= "_unopt"
+	end
+
+	return str * ".dat"
 end
 
 function do_flops(a)
@@ -29,9 +73,9 @@ function do_flops(a)
     mpy        = Float64
 
     if a.rank == 0
-        fn_suffix = "_mpi_"*string(a.size)*".dat"
-        mn        = "flops"*fn_suffix
-        fs        = open(mn, "a")
+	fname     = gen_fname("flops", a.size, a.is_opt)
+        fs        = open(fname, "a")
+	dump_exp_prefix(fs, a)
         start     = time_ns()
     end
 
@@ -59,9 +103,9 @@ function do_reads(a)
     i         = Int64
 
     if a.rank == 0
-        fn_suffix = "_mpi_"*string(a.size)*".dat"
-        mn        = "reads"*fn_suffix
-        fs        = open(mn, "a")
+        fname     = gen_fname("reads", a.size, a.is_opt)
+        fs        = open(fname, "a")
+	dump_exp_prefix(fs, a)
         start     = time_ns()
     end
 
@@ -89,12 +133,9 @@ function do_writes(a)
 
 
     if a.rank == 0
-        fn_suffix = "_mpi_"*string(a.size)*".dat"
-        mn        = "writes"*fn_suffix
-        fs        = open(mn, "a")
-    end
-
-    if a.rank == 0
+        fname     = gen_fname("writes", a.size, a.is_opt)
+        fs        = open(fname, "a")
+	dump_exp_prefix(fs, a)
         start = time_ns()
     end
 
@@ -142,17 +183,25 @@ function do_comms(a)
     end
 
     if a.rank == 0
-        fn_suffix = "_mpi_"*string(a.size)*".dat"
-        mn        = "comms"*fn_suffix
-        fs        = open(mn, "a")
+	fname     = gen_fname("comms", a.size, a.is_opt)
+        fs        = open(fname, "a")
+	dump_exp_prefix(fs, a)
         start     = time_ns()
     end
 
     # do the actual communication phase
     for i=1:a.comms
-        MPI.Send(b, fwd, 10+i, a.comm_world)
+	if a.is_opt
+	    MySend(b, Base.cconvert(Cint, length(b)), Base.cconvert(Cint, fwd), Cint(10+i), MYCOMMWORLD)
+	else
+	    MPI.Send(b, fwd, 10+i, a.comm_world)
+	end
         a1 = Array{Int64,1}(undef, a.comms)
-        MPI.Recv!(a1, bck, 10+i, a.comm_world)
+	if a.is_opt
+	    MyRecv!(a1, Base.cconvert(Cint, length(a1)), Base.cconvert(Cint, bck), Cint(10+i), MYCOMMWORLD)
+	else 
+	    MPI.Recv!(a1, bck, 10+i, a.comm_world)
+	end
     end
 
     # wait for everyone to finish
@@ -166,36 +215,26 @@ function do_comms(a)
 
 end
 
-function doit_mpi(iters, elements, flops, reads, writes, comms)
+function doit_mpi(iters, elements, flops, reads, writes, comms, is_opt)
     MPI.Init()
 
     bspcomm = MPI.COMM_WORLD
 
-    Distributed.@everywhere include("bsp_julia_mpi.jl")
 
     rank = MPI.Comm_rank(bspcomm)
     size = MPI.Comm_size(bspcomm)
 
-    a = bsptype(size, rank, iters, elements, flops, writes, reads, comms, bspcomm)
+    a = bsptype(size, rank, iters, elements, flops, writes, reads, comms, is_opt, bspcomm)
     
     for i=1:iters
     	do_computes(a)
-
-#        print("iteration-->",i)
-    #	if size==16
-    #		do_ping_pong(a)
-    #	end
-
         do_comms(a)
     end
 
- #   println("About to finalize")
     MPI.Finalize()
-
 end
-#=
-# arg parsing
-args = docopt(doc, version=v"0.0.1")
+
+args = docopt(doc, version=v"0.0.2")
 
 iters  = parse(Int, args["--iterations"])
 elms   = parse(Int, args["--elements"])
@@ -203,7 +242,7 @@ flops  = parse(Int, args["--flops"])
 reads  = parse(Int, args["--reads"])
 writes = parse(Int, args["--writes"])
 comms  = parse(Int, args["--comms"])
+is_opt = args["--is-opt"]
 
 # actual invocation
-doit_mpi(iters, elms, flops, reads, writes, comms)
-=#
+doit_mpi(iters, elms, flops, reads, writes, comms, is_opt)

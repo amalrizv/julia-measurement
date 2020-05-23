@@ -1,14 +1,16 @@
 CC:=gcc
 MPICC:=mpicc
-CFLAGS:=-O2 -Wall
+CFLAGS:=-O3 -Wall
 
 all: bsp_mpi
 
 bsp_mpi: bsp_mpi.c
-	$(MPICC) $(CFLAGS) -o $! $< 
+	$(MPICC) $(CFLAGS) -o $@ $< 
 
-run:
-	@./test_all.sh
+run: bsp_mpi
+	@./sync_bsp_c_binary.sh
+	@./git_pull_everywhere.sh
+	@./test_bsp.sh
 
 clean:
 	@rm -f bsp_mpi

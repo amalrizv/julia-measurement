@@ -11,7 +11,9 @@ Options:
   -f <flops>, --flops <flops>       Number of floating point operations [default: 1000000]
   -r <reads>, --reads <reads>       Number of reads [default: 5000]
   -w <writes>, --writes <writes>    Number of writes [default: 5000]
-  -c <comms>, --comms <comms>       Number of communications [default: 100]   -h, --help                       Show this message and exit
+  -c <comms>, --comms <comms>       Number of communications [default: 100]   
+  -o , --is-opt                     Is this using optimized MPI_{Send,Recv} in Julia? [default: False] 
+  -h, --help                        Show this message and exit
   -v, --version                     Show the version number
 
 
