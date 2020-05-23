@@ -202,6 +202,9 @@ function do_comms(a)
 	else 
 	    MPI.Recv!(a1, bck, 10+i, a.comm_world)
 	end
+
+        # wait for everyone to finish
+	MPI.Barrier(a.comm_world)
     end
 
     if  a.rank == 0
@@ -210,8 +213,6 @@ function do_comms(a)
         close(fs)
     end
 
-    # wait for everyone to finish
-    MPI.Barrier(a.comm_world)
 
 end
 

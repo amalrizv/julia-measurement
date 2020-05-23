@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <time.h>
+#include <string.h>
 #include <stdlib.h>
 #include <unistd.h>
 #include <getopt.h>
@@ -189,13 +190,16 @@ do_writes (struct bsp_type * a)
 static void __attribute__((noinline))
 do_comms (struct bsp_type * a)
 {
-    int a1;
     int i;
     int neighbor_fwd;
     int neighbor_bck;
     FILE *fs = NULL;
-    struct timespec start;
-    struct timespec end;
+    struct timespec start_comms;
+    struct timespec end_comms;
+    int a1;
+
+    memset(&start_comms, 0, sizeof(struct timespec));
+    memset(&end_comms, 0, sizeof(struct timespec));
 
     DEBUG_PRINT(a->rank, "In do_comms size=%d, rank=%d, comms=%d, comm_w=0x%08x\n",
                 a->size,
@@ -213,38 +217,48 @@ do_comms (struct bsp_type * a)
     else
          neighbor_fwd = a->rank+1;
 
+#define FNAME_MAX 128
+
     if (a->rank == 0){
-        char filename[sizeof "comms_c_128_unopt.dat"];
-        sprintf(filename, "comms_c_%d_unopt.dat", a->size);
+        char filename[FNAME_MAX] = {0};
+        snprintf(filename, FNAME_MAX, "comms_c_%d_unopt.dat", a->size);
         fs = fopen(filename,"a");
-        clock_gettime(CLOCK_REALTIME, &start);
+	if (!fs) {
+		fprintf(stderr, "Could not open dat file\n");
+		return;
+	}
+        if (clock_gettime(CLOCK_REALTIME, &start_comms) != 0) {
+		printf("ERROR IN CLOCK\n");
+	}
     }
 
     for (i = 0; i < a->comms; i++) {
 
-        if (MPI_Send(&a1, sizeof(int), MPI_INT, neighbor_fwd, 10,a->comm_w) != MPI_SUCCESS) {
+        if (MPI_Send(&a1, 1, MPI_INT, neighbor_fwd, 10, a->comm_w) != MPI_SUCCESS) {
             fprintf(stderr, "MPI_Send not successful\n");
             return;
         }
 
-        if (MPI_Recv(&a1, sizeof(int), MPI_INT, neighbor_bck, 10,a->comm_w, MPI_STATUS_IGNORE) !=MPI_SUCCESS) {
+        if (MPI_Recv(&a1, 1, MPI_INT, neighbor_bck, 10, a->comm_w, MPI_STATUS_IGNORE) !=MPI_SUCCESS) {
             fprintf(stderr, "MPI_Recv not successful\n");
             return;
         }
 
+	MPI_Barrier(a->comm_w);
+
     }
 
     if (a->rank == 0) {
-        clock_gettime(CLOCK_REALTIME, &end);
-        long long s_ns = start.tv_sec*1000000000 + start.tv_nsec;
-        long long e_ns = end.tv_sec*1000000000 + end.tv_nsec;
+        if (clock_gettime(CLOCK_REALTIME, &end_comms) != 0) {
+		printf("Error in clock (end)\n");
+	}
+        long s_ns = start_comms.tv_sec*1000000000L + start_comms.tv_nsec;
+        long e_ns = end_comms.tv_sec*1000000000L + end_comms.tv_nsec;
 	if (e_ns < s_ns) 
 		printf("WARNING WARNING WARNING: negative time difference in %s\n", __func__);
         fprintf(fs, "%lld\n", e_ns - s_ns);
         fclose(fs);
     }
-
-    MPI_Barrier(a->comm_w);
    
     DEBUG_PRINT(a->rank, "Out of do_comms\n");
 }
@@ -287,15 +301,27 @@ do_it (int iters,
 
     DEBUG_PRINT(rank, "Hello world! I am process number: %d on processor %s\n", rank, processorname);
 
-    struct bsp_type a = {size, rank, iters, elements, flops, reads, writes, comms, MPI_COMM_WORLD};
+    struct bsp_type * a = calloc(1, sizeof(struct bsp_type));
+    a->size = size;
+    a->rank = rank;
+    a->iters = iters;
+    a->elements = elements;
+    a->flops = flops;
+    a->reads = reads;
+    a->writes = writes;
+    a->comms = comms;
+    a->comm_w = MPI_COMM_WORLD;
+    //struct bsp_type a = {size, rank, iters, elements, flops, reads, writes, comms, MPI_COMM_WORLD};
     for (j = 0; j < iters; j++) {
 
-        do_compute(&a);
-        do_comms(&a);
+        do_compute(a);
+        do_comms(a);
 
         DEBUG_PRINT(rank, "Communication done in %s\n", __func__);
 
     }
+
+    free(a);
 
 }
 
