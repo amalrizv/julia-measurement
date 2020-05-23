@@ -1,0 +1,2000 @@
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2153583
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2160201
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2154388
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2148554
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2154084
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2147084
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2172880
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2087336
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2025802
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2125965
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2164510
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+408677
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+409849
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+405956
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2160920
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2153768
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2165888
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2162412
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2154328
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2153599
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2149449
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2147892
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2152946
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+400934
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+400280
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392506
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+369305
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+333163
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1972826
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+396518
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+393342
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386278
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+363435
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+332210
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2139904
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+395219
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+396786
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+400218
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+361220
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+343495
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387014
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+401610
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+394606
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385135
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356797
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+324640
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2005296
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+396947
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+394463
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383499
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+358907
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326001
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388290
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+397037
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392302
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383330
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+359279
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+322979
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2035863
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+393489
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390522
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381376
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+362327
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329210
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387863
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392316
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391246
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377659
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354892
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+322918
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2047380
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392745
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391909
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379052
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+359674
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326576
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383469
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+396580
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389911
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384589
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354498
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326414
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2040762
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+393973
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+393664
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383927
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356893
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327020
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387687
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389969
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390201
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388198
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355219
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350890
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2044549
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392379
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392380
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379432
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+358425
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+325877
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+370699
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+380593
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375489
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+366021
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+338573
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+310076
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1905634
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390489
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381254
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+398615
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354277
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+334105
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382164
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392860
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391482
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379170
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352632
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+321545
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2063521
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+439886
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388136
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377846
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+360676
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327569
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383608
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+401507
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390650
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+398576
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356599
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+323640
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2065412
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+394384
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390056
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377359
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+361622
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328831
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+398139
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+395030
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+397355
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377800
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354034
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+324275
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2064571
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+393997
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390721
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379295
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356296
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328490
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386254
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+406556
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+408910
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377173
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+361684
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326726
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2054457
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387441
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386407
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376749
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+359214
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327844
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385164
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+399251
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388879
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375718
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352584
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+324469
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2055094
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388340
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389587
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377267
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+367435
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328561
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384851
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388075
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385887
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377584
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352990
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326465
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2044654
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390154
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385954
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377144
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356192
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327640
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381356
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390342
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387264
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376719
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351592
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+322719
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2079197
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+437954
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388585
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379542
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355751
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330672
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384167
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+393101
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390917
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+416685
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355602
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327338
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2060186
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387448
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+396221
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379366
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+369075
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327432
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385413
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387270
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386879
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374376
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349801
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+325697
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2061986
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+417936
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389023
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385090
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355304
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327127
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383054
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388736
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389400
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376027
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352613
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+322694
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2055707
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389387
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391618
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378047
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356716
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326560
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384848
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388712
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384972
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377211
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353298
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326680
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2037787
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390730
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388229
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379857
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352280
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327170
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+406719
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389946
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383861
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376738
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353181
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328454
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2067543
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387353
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388924
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377185
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+359139
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329898
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386477
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387732
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384580
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376058
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352115
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326486
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2051319
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391684
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388579
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376528
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355805
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328110
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383730
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389594
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384715
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374396
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350680
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+325993
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2061058
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+394416
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387090
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376914
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355392
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+324400
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388430
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388418
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388072
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376827
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350578
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326596
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2055544
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389810
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389662
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377401
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+365166
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328173
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386883
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390270
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386072
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377457
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354147
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+324982
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2053867
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390453
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377805
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+366726
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+345951
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+315912
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375647
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375898
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+408933
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+367738
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+340777
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+314397
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2071014
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389161
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388890
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382054
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+358020
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330880
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384149
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389475
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386338
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376621
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352115
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326908
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2067778
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391002
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386078
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377483
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354969
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329041
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384925
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387928
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1292535
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1266413
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1252216
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1233530
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1962155
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1379905
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377612
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+364918
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+344933
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+316112
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1378226
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392496
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387990
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384405
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352033
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+334188
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2082488
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391730
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388265
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373799
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+360213
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+332796
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387758
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388380
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382894
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379105
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354580
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331108
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2070097
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387502
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387226
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+405572
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355378
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+339524
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386365
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388661
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385865
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374290
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353993
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326640
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2086580
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388834
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387399
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379191
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356773
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331182
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386038
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+397948
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385757
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386480
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350434
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331222
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2078091
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388608
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388554
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377452
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354640
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354415
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390122
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389142
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388352
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377317
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351065
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326856
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2093618
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391933
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390260
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377562
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354432
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330520
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387388
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388674
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383451
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377791
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352901
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329837
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2043699
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+437339
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383422
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374118
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355836
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331603
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386070
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389649
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383788
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373601
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+348361
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+325063
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2074193
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387530
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382941
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374201
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355542
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329801
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384276
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385098
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+402707
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373737
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+363918
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329969
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2078415
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389863
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387016
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375823
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356119
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330835
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388695
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391747
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388958
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376051
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351236
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327179
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2067141
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390062
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387306
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376163
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356707
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+336934
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387977
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384658
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381909
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+395548
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349138
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+340722
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2057914
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388638
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385637
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373820
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352138
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330492
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+428165
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387526
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385027
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373869
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350220
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327809
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2056632
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390718
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385171
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+371371
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351524
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326602
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389351
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387433
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383437
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373880
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+348399
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326772
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2066165
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388639
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373619
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+362672
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+340438
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+317503
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375783
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373923
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+372916
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+362817
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+335998
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+311884
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2071432
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388530
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388603
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374877
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+362059
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329123
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388903
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389075
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385685
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376940
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350113
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328323
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2089952
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390135
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389286
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378838
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355331
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+332202
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387434
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386474
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390887
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375430
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351480
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327408
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2061799
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+435772
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385588
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376632
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349867
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330677
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392851
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387427
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384163
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374413
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349059
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328619
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2075073
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387780
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384416
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378549
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+347409
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330147
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388569
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385429
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382908
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375080
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350691
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327784
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2072251
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387493
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382837
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377538
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353618
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331889
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386678
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385990
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381697
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+372558
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349354
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327936
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2075223
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385496
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384398
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374870
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352931
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329889
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+401418
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383766
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381378
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374967
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349081
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+409560
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2069610
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+399708
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384201
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391829
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351305
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329016
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390115
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385967
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387270
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383624
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+347849
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326533
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2071112
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389374
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388157
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378523
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350615
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328649
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389562
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386914
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383118
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376032
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353352
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328286
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2072449
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388805
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385837
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377278
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351213
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330677
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388651
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386421
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383859
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+372417
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384313
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327712
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2083193
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+394606
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+380531
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383739
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352924
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+339092
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387202
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384796
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379586
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+370006
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350600
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327830
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2082116
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+437122
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384807
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375712
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356430
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+333600
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390092
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389305
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381399
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375288
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+348790
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329386
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2068772
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386352
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388322
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+431903
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352515
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327819
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389240
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384015
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382922
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378663
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350327
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329926
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2076269
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387485
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384561
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376783
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352626
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381395
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388923
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387420
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382897
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373347
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349466
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327332
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2090194
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388473
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386356
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383661
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+340474
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+314285
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376385
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373012
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373809
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+365353
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+340271
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+315128
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1944441
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377062
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+407023
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378949
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+370865
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331199
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386455
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384005
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385069
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376371
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351209
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328807
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2090212
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+394997
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382761
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376151
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+361375
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+333990
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377904
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376891
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373167
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+363371
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351770
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384330
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2087169
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387910
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384361
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376864
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354872
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331635
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387248
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392218
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381750
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373996
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353936
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331670
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2072509
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387969
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381507
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377547
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353472
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330679
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390734
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384450
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+380129
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375709
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351753
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326479
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2068797
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384275
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385907
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374338
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351569
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384088
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391408
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384658
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384991
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378062
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+364576
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331021
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2077276
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+398907
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381833
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378486
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+400738
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+332438
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+413944
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383631
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383969
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376768
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351953
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+332056
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2094205
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388024
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386178
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376658
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354954
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331994
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389659
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384731
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381960
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378157
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+347333
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+337752
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2081393
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385351
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383409
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375475
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351340
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330656
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391025
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385886
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+369776
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+362526
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349466
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+315382
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1943655
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+372507
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+369604
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+364857
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+339258
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+313383
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378543
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+370870
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+370955
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+361434
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+335818
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328336
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1932378
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+372699
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+368757
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+361876
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356275
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331416
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389702
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382782
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382361
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375092
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+345590
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326647
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2080113
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385821
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381676
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376647
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352369
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+332112
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389314
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386958
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+380866
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376016
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349724
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327888
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2075492
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384667
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+435744
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375085
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353418
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330858
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387001
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383717
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381597
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375136
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+348695
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329246
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2670081
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+435697
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383996
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375521
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354631
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+332428
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388111
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383987
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382279
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376345
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352638
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328253
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2109105
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384774
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378916
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376654
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352758
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329764
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+391490
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382906
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+380893
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+372274
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350797
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327578
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2083365
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386224
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+400374
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+431833
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354239
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328771
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+393184
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386848
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384231
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377226
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+364403
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327491
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2070969
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+396254
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379522
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383655
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+354828
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+332900
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390310
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386836
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383552
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376961
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351281
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328854
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2089869
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386643
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+393343
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376500
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+358136
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+333271
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388175
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384200
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+380841
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375272
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350835
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+341011
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2089940
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384736
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+399807
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375796
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355408
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331841
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387646
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382676
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382582
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373645
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351480
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327354
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2063086
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385847
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+369833
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+361923
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+339419
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+321745
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388683
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387795
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383258
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374472
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349041
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326174
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2079558
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386520
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383640
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376208
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351837
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330209
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389707
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388070
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381889
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375859
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353568
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331025
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2078423
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387314
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381502
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+389715
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+356849
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+339051
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386196
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382878
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+380278
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+372755
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352387
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+326068
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2084807
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383724
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+394436
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375197
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+366095
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331652
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390462
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385858
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377424
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+370807
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+350648
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330416
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2073492
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+397253
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382473
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373407
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353328
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+330032
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386175
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381910
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+377744
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+375565
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349269
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+325925
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2088356
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384405
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384211
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+376132
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+347501
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+331831
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392617
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+386550
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+381417
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374148
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+348678
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329238
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2075811
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384881
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+380791
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374216
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+353120
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+328882
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+392043
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+385385
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+380411
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374580
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351486
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327381
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2092573
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382178
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384413
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+415311
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+355247
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+333033
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+390490
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382390
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+380105
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374738
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349640
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327800
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+1969914
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+372694
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+369034
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+364872
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+345275
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+318937
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+379189
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+374121
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+368563
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+359536
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+349626
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329240
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2093331
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+384057
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382502
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+373063
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352165
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+329679
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+388477
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+383554
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+378636
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+371559
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+351404
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+327254
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+2082027
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387032
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+382407
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+387225
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+352349
+# iters=100,elements=10,flops=1000000,comms=10,reads=500000,writes=500000,is_opt=false
+344174

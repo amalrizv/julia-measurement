@@ -1,7 +1,7 @@
 
 all: plots
 
-plots: prep context-switches task-creations spawn-fetch ping-pong condvars channels bsp-stacked-10 bsp-stacked-100
+plots: prep context-switches task-creations spawn-fetch ping-pong condvars channels bsp-stacked-10 bsp-stacked-100 hpcg
 
 prep: .prepped.txt
 
@@ -37,6 +37,26 @@ bsp-stacked-10: bsp_stacked.py bsp_10_deps
 
 bsp-stacked-100: bsp_stacked.py bsp_100_deps
 	python3 ./bsp_stacked.py data/bsp/comms_100 bsp-stacked-comms-100.pdf
+
+data/hpcg/dat16:
+	python3 datparse.py -p data/hpcg/results_16 --output $@
+
+data/hpcg/dat32:
+	python3 datparse.py -p data/hpcg/results_32 --output $@
+
+data/hpcg/dat64:
+	python3 datparse.py -p data/hpcg/results_64 --output $@
+
+hpcg-16.pdf: data/hpcg/dat16
+	python3 cgplot.py --input $< --output $@
+
+hpcg-32.pdf: data/hpcg/dat32
+	python3 cgplot.py --input $< --output $@
+
+hpcg-64.pdf: data/hpcg/dat64
+	python3 cgplot.py --input $< --output $@
+
+hpcg: hpcg-16.pdf hpcg-32.pdf hpcg-64.pdf
 
 clean:
 	@rm -f *.pdf
