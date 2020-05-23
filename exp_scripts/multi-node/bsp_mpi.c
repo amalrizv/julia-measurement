@@ -181,7 +181,7 @@ do_writes (struct bsp_type * a)
 	    long long e_ns = end.tv_sec*1000000000 + end.tv_nsec;
 	    if (e_ns < s_ns) 
 		    printf("WARNING WARNING WARNING: negative time difference in %s\n", __func__);
-	    fprintf(fs,"%lldn", e_ns - s_ns);
+	    fprintf(fs,"%lld\n", e_ns - s_ns);
 	    fclose(fs);
     }
 }
