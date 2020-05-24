@@ -44,10 +44,10 @@ bsp-stacked-100: bsp_stacked.py bsp_100_deps
 	python3 ./bsp_stacked.py data/bsp/comms_100 bsp-stacked-comms-100.pdf
 
 bsp-runtime-10: bsp_stacked.py bsp_10_deps
-	python3 ./bsp_stacked.py data/bsp/comms_10 bsp-stacked-comms-10.pdf
+	python3 ./bsp_runtime.py data/bsp/comms_10 bsp-runtime-comms-10.pdf
 
-bsp-runtime-100: bsp_stacked.py bsp_10_deps
-	python3 ./bsp_stacked.py data/bsp/comms_10 bsp-stacked-comms-10.pdf
+bsp-runtime-100: bsp_stacked.py bsp_100_deps
+	python3 ./bsp_runtime.py data/bsp/comms_100 bsp-runtime-comms-100.pdf
 
 bsp-runtime: bsp-runtime-10 bsp-runtime-100
 bsp-stacked: bsp-stacked-10 bsp-stacked-100
