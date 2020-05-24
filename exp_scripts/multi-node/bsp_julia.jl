@@ -64,7 +64,7 @@ function gen_fname(op_type::String, procs, is_opt)
 	return str * ".dat"
 end
 
-function do_flops(a)
+function do_flops(a::bsptype)
 
     i          = Int64
     x::Float64 = 1995.1937
@@ -95,7 +95,7 @@ function do_flops(a)
 end
 
 
-function do_reads(a)
+function do_reads(a::bsptype)
 
     mymem     = Array{Int64,1}(undef, a.reads)
     sum       = Float64
@@ -124,7 +124,7 @@ function do_reads(a)
 end
 
 
-function do_writes(a)
+function do_writes(a::bsptype)
 
     x::Float64   = 93.0
     sum::Float64 = x
@@ -152,7 +152,7 @@ function do_writes(a)
 end
 
 
-function do_computes(a)
+function do_computes(a::bsptype)
 
     i  = Int64
     for i=1:a.elements
@@ -166,7 +166,7 @@ function do_computes(a)
 end
 
 
-function do_comms(a)
+function do_comms(a::bsptype)
 
     b         = Array{Int64,1}(undef, a.comms)
 
@@ -216,7 +216,7 @@ function do_comms(a)
 
 end
 
-function doit_mpi(iters, elements, flops, reads, writes, comms, is_opt)
+function doit_mpi(iters::Int64, elements::Int64, flops::Int64, reads::Int64, writes::Int64, comms::Int64, is_opt::Bool)
     MPI.Init()
 
     bspcomm = MPI.COMM_WORLD
