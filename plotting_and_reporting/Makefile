@@ -1,7 +1,7 @@
 
 all: plots
 
-plots: prep context-switches task-creations spawn-fetch ping-pong condvars channels bsp-stacked-10 bsp-stacked-100 hpcg
+plots: prep context-switches task-creations spawn-fetch ping-pong condvars channels bsp par-constructs
 
 prep: .prepped.txt
 
@@ -26,6 +26,11 @@ condvars: data/condvar/*.dat cond_plot.py
 channels: data/channels/*.dat channel_plot.py
 	python3 ./channel_plot.py
 
+par-constructs.pdf: data/thread-decomposition/*.dat parallel_constructs.py
+	python3 ./parallel_constructs.py
+
+par-constructs: par-constructs.pdf 
+
 bsp_10_deps: data/bsp/comms_10/*.dat
 	rm -f data/bsp/comms_10/*.expframe.*
 
@@ -37,6 +42,16 @@ bsp-stacked-10: bsp_stacked.py bsp_10_deps
 
 bsp-stacked-100: bsp_stacked.py bsp_100_deps
 	python3 ./bsp_stacked.py data/bsp/comms_100 bsp-stacked-comms-100.pdf
+
+bsp-runtime-10: bsp_stacked.py bsp_10_deps
+	python3 ./bsp_runtime.py data/bsp/comms_10 bsp-runtime-comms-10.pdf
+
+bsp-runtime-100: bsp_stacked.py bsp_100_deps
+	python3 ./bsp_runtime.py data/bsp/comms_100 bsp-runtime-comms-100.pdf
+
+bsp-runtime: bsp-runtime-10 bsp-runtime-100
+bsp-stacked: bsp-stacked-10 bsp-stacked-100
+bsp: bsp-stacked bsp-runtime
 
 data/hpcg/dat16:
 	python3 datparse.py -p data/hpcg/results_16 --output $@

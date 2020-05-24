@@ -181,49 +181,28 @@ class ExperimentFrame:
         bars  = self.proc_counts
         bar_l = range(len(bars))
 
-        # these should not be hard-coded, ideally passed in via command-line as list
-        seriesa = {'comms': [], 'flops': [], 'reads': [], 'writes': []}
-        seriesb = {'comms': [], 'flops': [], 'reads': [], 'writes': []}
-        seriesc = {'comms': [], 'flops': [], 'reads': [], 'writes': []}
-
         # bar X coords on the graph. The second set is just offset from the first bars by the bar width
         pos1 = np.arange(len(bars))
         pos2 = [x + barwidth for x in pos1]
         pos3 = [x + barwidth for x in pos2]
 
-        # These are the y coords for the bottoms of each component of a bar stack.
-        # We'll update them as we go
-        bottoma = np.zeros_like(bar_l).astype('float')
-        bottomb = np.zeros_like(bar_l).astype('float')
-        bottomc = np.zeros_like(bar_l).astype('float')
+        totala = []
+        totalb = []
+        totalc = []
 
         for c in self.proc_counts:
-            for op in self.ops:
-                meana  = self.op_mean('c', c, op, "unopt")
-                totala = self.exp_total('c', c, "unopt")
-                seriesa[op].append(meana/totala)
-                meanb  = self.op_mean('julia', c, op, "unopt")
-                totalb = self.exp_total('julia', c, "unopt")
-                seriesb[op].append(meanb/totalb)
-                meanc  = self.op_mean('julia', c, op, "opt")
-                totalc = self.exp_total('julia', c, "opt")
-                seriesc[op].append(meanc/totalc)
+            totala.append(self.exp_total('c', c, "unopt")/1e6)
+            totalb.append(self.exp_total('julia', c, "unopt")/1e6)
+            totalc.append(self.exp_total('julia', c, "opt")/1e6)
 
-
-        print(seriesa)
-        for i, op in enumerate(self.ops):
-            ax.bar(pos1, seriesa[op], bottom=bottoma, label=op, width=barwidth, edgecolor='black', color=colors[i], alpha=0.8, hatch=hatches[i]*3, linewidth=0.25)
-            ax.bar(pos2, seriesb[op], bottom=bottomb, width=barwidth, edgecolor='black', color=colors[i], alpha=0.8, hatch=hatches[i]*3, linewidth=0.25)
-            ax.bar(pos3, seriesc[op], bottom=bottomc, width=barwidth, edgecolor='black', color=colors[i], alpha=0.8, hatch=hatches[i]*3, linewidth=0.25)
-            bottoma += seriesa[op]
-            bottomb += seriesb[op]
-            bottomc += seriesc[op]
-
+        ax.bar(pos1, totala, width=barwidth, edgecolor='black', color=colors[0], alpha=0.8, hatch=hatches[0]*3, linewidth=0.25)
+        ax.bar(pos2, totalb, width=barwidth, edgecolor='black', color=colors[1], alpha=0.8, hatch=hatches[1]*3, linewidth=0.25)
+        ax.bar(pos3, totalc, width=barwidth, edgecolor='black', color=colors[2], alpha=0.8, hatch=hatches[2]*3, linewidth=0.25)
 
         FONTSIZE=18
 
         # replaces X axis labels
-        loc=-0.015
+        loc=-0.5
         rot=-90
         [ax.text(p-barwidth/2, loc, 'C', fontsize=FONTSIZE, rotation=rot, va='top') for p in pos1]
         [ax.text(p-barwidth/2, loc, 'Julia', fontsize=FONTSIZE, rotation=rot, va='top') for p in pos2]
@@ -232,14 +211,13 @@ class ExperimentFrame:
         ax.set_xticks([r + barwidth for r in range(len(bars))])
         ax.set_xticklabels(self.proc_counts, size=FONTSIZE)
         ax.set_xlabel("Total MPI Ranks", fontsize=FONTSIZE)
-        ax.set_ylabel("Execution Time Breakdown", fontsize=FONTSIZE)
+        ax.set_ylabel("Execution Time (ms)", fontsize=FONTSIZE)
         ax.tick_params(axis='y', size=FONTSIZE)
 
         # move down proc labels so we can describe the language
         ax.tick_params(axis='x', pad=100)
 
         ax.legend(loc="best", fontsize=FONTSIZE)
-        #f.subplots_adjust(right=0.5, bottom=0.4)
 
         plt.tight_layout()
 
