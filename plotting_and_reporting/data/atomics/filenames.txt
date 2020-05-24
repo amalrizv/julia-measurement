@@ -1,0 +1,13 @@
+c_atomics_add.dat
+c_atomics_and.dat
+c_atomics_cas.dat
+c_atomics_nand.dat
+c_atomics_or.dat
+c_atomics_set.dat
+c_atomics_sub.dat
+julia_atomic_add.dat
+julia_atomic_and.dat
+julia_atomic_cas.dat
+julia_atomic_nand.dat
+julia_atomic_or.dat
+julia_atomic_sub.dat

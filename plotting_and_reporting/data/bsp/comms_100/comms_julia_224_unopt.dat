@@ -1,200 +1,200 @@
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-711260637
+220152580
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-273847333
+215501566
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-29275606
+30434972
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-46977277
+30543124
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-43593260
+39539614
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-66744424
+43286304
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-88799126
+31605757
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-58406357
+46399672
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-33365461
+61540001
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-33942361
+33530501
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-37806690
+26470863
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-35436858
+26421239
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-34114309
+23326443
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-23336486
+33442261
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-41416191
+69718197
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-31932906
+21896410
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-28419756
+32347637
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-25330080
+26747181
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-25524394
+29541375
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-33083403
+31647932
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-52213401
+18321981
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-40308255
+39881652
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-48158510
+34997272
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-34790893
+35148729
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-23070190
+28073233
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-26141889
+31828220
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-32805715
+26836632
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-28132896
+21935513
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-41195275
+20240307
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-48156112
+21473467
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-42947825
+33955326
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-43981879
+33474069
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-56962688
+31000378
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-26826542
+26217147
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-30214435
+40253615
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-32538138
+32627761
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-23849261
+33029926
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-23336900
+42531575
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-26529164
+30931735
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-28963110
+28730588
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-30142654
+22215629
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-33636406
+18379173
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-35577150
+17413319
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-32791613
+37473286
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-26364573
+30845992
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-27182783
+34266900
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-28292235
+25999581
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-24585115
+26568556
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-24302973
+17368409
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-22686894
+20391954
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-25421165
+30770711
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-33835317
+32415554
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-35183774
+22125969
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-21013144
+21807367
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-22584686
+32631203
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-25538646
+38166316
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-23937466
+31151916
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-33210113
+22929238
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-28164003
+23935963
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-52543007
+21428279
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-29574307
+20766234
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-39288736
+21821049
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-35436873
+30360334
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-27956470
+34081164
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-27153684
+39272614
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-25393234
+37677010
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-26458683
+22696555
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-30169606
+23094129
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-33763893
+22231515
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-29495483
+25494288
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-29119651
+24330906
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-23698103
+20787693
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-23477518
+21295002
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-23766903
+22464157
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-24262247
+19751687
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-26232294
+22454887
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-29829987
+24778748
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-20931239
+38511066
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-22877431
+22211206
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-21643244
+21915391
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-24474839
+35419791
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-25914406
+24814909
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-27709695
+24754877
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-23759092
+22582718
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-24356566
+31988042
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-23243486
+24497714
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-24049082
+19877403
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-26795168
+26285774
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-25813301
+32318611
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-22975467
+52386386
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-24456583
+17257551
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-24050567
+20439210
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-25150672
+18930674
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-28519973
+21914803
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-26847400
+22482640
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-22172669
+20944194
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-21504492
+18644519
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-21430809
+21639805
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-27039973
+20169125
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=false
-28836754
+20627443

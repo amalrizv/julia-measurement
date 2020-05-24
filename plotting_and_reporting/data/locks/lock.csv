@@ -1,0 +1,17 @@
+lang,op,mean
+cpp,mutex_lock ,114.64
+cpp,mutex_trylock ,103.68
+cpp,mutex_unlock ,119.22
+cpp,sem_down ,110.41
+cpp,sem_up ,108.96
+cpp,spin_lock ,107.67
+cpp,spin_trylock ,107.67
+cpp,spin_unlock ,86.88
+julia,mutex_lock ,190.71
+julia,mutex_trylock ,185.6
+julia,mutex_unlock ,174.1
+julia,sem_down ,179.8
+julia,sem_up ,156.03
+julia,spin_lock ,141.46
+julia,spin_trylock ,118.76
+julia,spin_unlock ,102.61

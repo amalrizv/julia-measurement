@@ -1,2000 +1,2000 @@
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-241198
+241221
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-239764
+239656
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-239624
+239850
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-239565
+240003
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-239672
+239771
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-239561
+239765
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-241685
+242122
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238228
+238406
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238215
+253026
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238235
+238199
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238243
+238497
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238225
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238336
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238609
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-281663
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238269
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238343
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238301
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238212
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238440
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238403
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238612
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238333
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238300
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238614
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238503
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238447
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238295
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238244
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238512
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238804
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238341
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238346
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238424
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238373
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238273
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238453
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-253193
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238403
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238350
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238213
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238443
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238260
+240350
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238281
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238251
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238307
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238260
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-259785
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238363
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238402
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238297
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238235
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238294
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238443
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238491
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238414
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238577
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238409
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-263047
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238735
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238239
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238284
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238309
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-248520
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238374
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238291
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238615
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238554
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238657
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238369
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-476345
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238309
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238632
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238524
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238369
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238559
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238415
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238509
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238272
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238513
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238350
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238252
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238274
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-249367
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238566
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238454
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238276
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238345
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238610
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238351
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238276
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238346
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238344
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238229
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238258
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238269
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238262
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238310
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238301
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-389286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-244928
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238419
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-273033
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238600
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238228
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238307
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-253276
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238294
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238262
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238573
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238361
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238338
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238663
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238641
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238536
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238229
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238293
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238716
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238264
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-244690
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238267
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238403
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238640
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238453
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238443
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238298
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238330
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238351
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-244369
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238468
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238267
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238545
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238319
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238644
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238336
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238308
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238298
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238496
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-244878
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238440
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238269
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238320
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238517
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238301
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238268
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238302
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238308
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238330
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238359
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238264
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238289
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238267
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238274
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238264
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238270
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238408
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238405
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-248783
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238483
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238490
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238268
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238303
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238315
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238282
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238253
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238449
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238276
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-248890
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238362
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238440
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238266
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238239
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-254849
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238266
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238349
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238757
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238558
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238350
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238310
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238462
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238358
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238369
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-246250
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238386
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-259576
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238361
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238323
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238502
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238480
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238287
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238429
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238276
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238512
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238263
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238260
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238303
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238310
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238466
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238419
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238277
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238625
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238926
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-277893
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238361
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238527
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238301
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238491
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-276931
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238285
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238409
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238272
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238291
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238316
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238256
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238319
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238363
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238358
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238292
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238376
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238598
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238439
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238312
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238425
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238261
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238483
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238268
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238685
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238274
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238620
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238632
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238304
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-251987
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238352
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238309
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238422
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238536
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238348
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238301
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238312
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-248112
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238223
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238446
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238310
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238363
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238342
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238321
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238403
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238483
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238446
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238481
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238270
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238239
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238392
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238399
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238473
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238661
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238307
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-275430
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238327
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238316
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238408
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238378
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-275504
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238235
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238301
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238390
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238323
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238263
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238304
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238247
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238329
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238324
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238446
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238288
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238251
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-267573
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-273396
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-253803
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-268477
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238262
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238263
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238267
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-268070
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238317
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238264
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238437
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238216
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238278
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238277
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238419
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-257461
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238308
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238521
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238293
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238320
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238358
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238529
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-242919
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-258785
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238289
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238267
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238360
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238307
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238460
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238760
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238826
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238584
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238374
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238482
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238239
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238295
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238299
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238880
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238340
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238365
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238288
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-248883
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238459
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238285
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238312
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238327
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238243
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238402
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238266
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238261
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238297
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238292
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238273
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238508
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238364
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238423
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238360
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238228
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238307
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238308
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238274
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-253685
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238253
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238954
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238384
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238469
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-247735
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238411
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238869
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238230
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238603
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238220
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238342
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238728
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238532
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238297
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238624
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238319
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238468
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238264
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238505
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238335
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238313
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238448
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238290
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238558
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238372
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-249444
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238487
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238275
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238295
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238261
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238242
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-276487
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238527
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238304
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238281
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238404
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-272911
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238288
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238270
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238320
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238306
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238215
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238271
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238433
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238276
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238323
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238279
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238304
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238252
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238551
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238372
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238402
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-273440
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238248
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238574
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238272
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238328
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238261
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-274229
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238463
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238400
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-254358
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-267142
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238300
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238532
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238410
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238483
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238325
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-333629
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-333784
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238293
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238263
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238694
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238293
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238264
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238485
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238273
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238291
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238492
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238328
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238290
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238708
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238303
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238557
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238589
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238412
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238844
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238439
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238601
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238329
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238604
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238424
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-248870
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238379
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238532
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238417
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238600
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-249539
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238350
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238350
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238270
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-246740
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238371
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238307
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238298
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238477
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238873
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-247411
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238245
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238270
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238394
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238266
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238313
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-255014
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238264
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238273
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-312687
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-312923
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-312758
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-476507
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238251
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238268
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238263
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238263
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238359
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238339
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238527
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238589
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238404
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238258
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238495
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238353
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238251
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238308
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-258488
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238282
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238540
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238679
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238432
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238427
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238463
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238387
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238277
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-256550
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238228
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238291
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238455
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238704
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238399
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238306
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238320
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238399
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238299
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238563
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238457
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-268211
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238220
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-249477
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238287
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238285
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238254
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238274
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238294
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238297
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238294
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238400
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238580
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
+238441
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238628
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
+238401
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238300
+238727
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238330
+254792
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238282
+238384
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238284
+238415
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238731
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238420
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-249155
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238404
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238284
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238304
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238357
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238771
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238259
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238533
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238570
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238388
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-257296
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238436
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238311
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238262
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-239165
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238290
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238531
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238362
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238436
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238295
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238592
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238524
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238319
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238568
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238313
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238257
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-255608
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238259
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238271
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238378
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238417
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238312
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-256011
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238294
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238338
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238342
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238410
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238274
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238226
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238258
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238444
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238425
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238270
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238422
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238470
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238297
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238666
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238599
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-249524
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238296
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238226
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238358
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238259
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238266
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238270
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238270
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238582
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238375
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238594
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238691
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238445
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238301
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238273
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238479
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238383
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238274
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238389
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238315
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238275
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238311
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238467
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238264
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238214
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238281
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238294
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238268
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238326
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238535
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238356
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238307
+238606
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238419
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238459
+238585
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238313
+238621
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238295
+238683
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238239
+238270
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238547
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238458
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238466
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238666
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238320
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238782
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238557
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238297
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238311
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238269
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238309
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238219
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238376
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-249328
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238387
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238260
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238294
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238458
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238560
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238296
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238321
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238607
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238283
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238644
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238244
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-247267
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238253
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238423
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238500
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238504
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238373
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238457
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238281
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-239105
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238533
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238275
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-263347
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238300
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238337
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-239184
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238513
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238337
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238517
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238256
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238340
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238232
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-255358
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-256757
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238263
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238438
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238339
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238563
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238417
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238306
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238838
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238421
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238291
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238242
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238322
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238446
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-246737
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238500
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238306
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238295
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238380
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238272
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-256965
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-248148
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238316
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238496
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-476800
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238668
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238284
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238498
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238387
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238291
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238251
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238328
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238267
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238411
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238857
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238491
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238293
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238425
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238656
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238420
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238474
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238307
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238395
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238449
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-248352
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238306
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238619
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238281
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238516
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238272
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238591
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238320
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238534
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238597
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238312
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238457
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238382
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238641
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238491
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-240553
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238285
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238397
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238452
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238300
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238478
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238418
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238438
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238278
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-254903
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238405
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238251
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238419
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-253540
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238305
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238508
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238277
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238463
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238550
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238603
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238407
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238295
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238400
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238223
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238440
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238296
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-248503
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238253
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238311
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-249941
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238316
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238453
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238299
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238350
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238216
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-267136
+238460
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238433
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238470
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238298
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+248323
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238310
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238505
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238320
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238360
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238305
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238545
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238797
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238292
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238282
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238356
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238488
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238270
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238309
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238338
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238389
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238387
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238333
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238410
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238272
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238492
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238583
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238446
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238320
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238385
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238441
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238377
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238416
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238512
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238280
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+246342
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238309
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238286
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238259
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238321
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238282
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238383
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238311
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238477
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+254228
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238449
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238649
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238283
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238269
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238277
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238466
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238404
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238301
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238257
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+253285
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238301
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238556
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238435
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238426
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238756
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238580
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+402802
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238453
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238331
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238283
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238350
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238203
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238425
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238311
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238374
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238283
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238431
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238276
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238383
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238297
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+246551
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238542
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+241277
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238874
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238398
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238476
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238699
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238424
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+257151
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238272
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238300
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238412
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238403
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238312
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238323
+238266
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238278
+238310
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238579
+238255
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+247023
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238271
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238273
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+244867
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+255441
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+246681
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+262632
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238293
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+245759
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238242
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238277
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238269
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238280
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238287
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238673
+238372
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+250771
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238595
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238419
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+247529
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238337
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238297
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238787
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238293
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238326
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238287
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238490
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238712
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238307
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238333
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238439
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238290
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238281
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238274
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238245
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238544
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238425
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238325
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238332
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238654
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238295
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238289
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238287
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+255849
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238551
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238639
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+247144
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238316
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238337
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238456
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238475
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238406
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238596
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238472
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238408
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238355
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238330
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+247628
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238378
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238515
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238254
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238299
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238315
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238298
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238402
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238453
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238308
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238355
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238304
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238272
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238373
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238436
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238280
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238279
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238301
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238765
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238423
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238320
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238319
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238424
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238283
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238275
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238719
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238303
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238303
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238295
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238446
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238667
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238567
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238301
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238297
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238529
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238292
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238267
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238345
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238437
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238419
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238301
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238341
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238316
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238286
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238315
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238324
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238268
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238305
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238314
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238388
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238261
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238304
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238745
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238334
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238505
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238299
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238313
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238313
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238544
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238238
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238265
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238653
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238926
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238509
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238473
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238289
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238289
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238728
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238301
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+245217
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238528
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238286
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238248
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238231
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238415
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238552
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238287
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+242882
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238566
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238346
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238467
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238299
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238282
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238388
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238275
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238498
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+253502
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+242974
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238311
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238304
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238542
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238319
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238380
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238549
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238270
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238449
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238300
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238363
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+266889
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238478
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238283
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238538
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238304
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238309
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238322
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+251243
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238391
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238334
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238793
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238452
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+248071
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238498
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238431
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238413
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238695
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238324
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238289
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238326
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238302
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238446
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238648
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238328
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238285
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238313
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238324
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238303
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238548
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238281
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238454
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238269
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238494
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238293
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238400
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238294
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238409
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238273
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238438
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238565
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238579
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238346
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238426
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238300
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238373
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238630
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238261
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238286
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238476
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238531
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238464
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238420
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238413
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238446
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238283
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238327
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238309
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238252
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238308
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238318
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+249945
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238732
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238323
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238501
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238409
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+259297
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238276
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238400
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238429
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238389
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238454
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238428
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238464
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238560
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238373
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+248175
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238267
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238296
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238330
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238620
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238277
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238513
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238704
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238414
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+239095
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238494
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238389
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238446
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238311
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238450
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238571
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238364
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238280
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238264
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238345
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238412
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238296
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238296
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238728
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238493
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238301
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238423
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238288
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238280
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238275
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238256
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+255246
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238393
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238430
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238467
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238478
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238484
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+476402
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238290
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238298
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238315
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238406
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238362
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238304
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238725
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238309
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238656
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238693
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238284
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238577
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238370
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238272
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238325
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238545
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238777
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238326
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238330
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238279
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238471
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238906
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238272
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238275
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238634
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238474
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+255520
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238472
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238388
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+259556
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238463
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238416
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238300
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+257323
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238334
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238331
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238306
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238294
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238267
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238313
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238272
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238801
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238298
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238293
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238417
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238624
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+239067
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238317
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+246439
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238383
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238249
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238652
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238404
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238342
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238626
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238568
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238729
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238279
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238294
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238693
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238300
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238323
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238256
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238365
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238303
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238521
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+252156
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238463
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238326
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238400
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238296
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+260373
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238306
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238340
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238349
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238513
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238279
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238619
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238623
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238294
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238299
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238320
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238493
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238469
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238809
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238492
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238375
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238640
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238277
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238289
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238304
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238379
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238281
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238399
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+247654
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238272
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238274
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238275
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238244
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238350
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238300
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238271
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238464
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238515
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238366
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238286
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238319
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238286
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+248010
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238275
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+254411
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+252660
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238497
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238319
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238595
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238371
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238412
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238609
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238613
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238444
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238343
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238287
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238349
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238284
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238339
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238623
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238739
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238321
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238281
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238467
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+246223
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238513
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238323
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238788
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238634
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238421
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238532
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+316988
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238316
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238284
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+251794
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238409
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238459
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238744
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238294
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238382
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238279
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+256245
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238285
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238390
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238267
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238396
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238314
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238285
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238405
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238310
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238276
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238230
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238285
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238509
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+254725
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238330
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238329
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238357
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238316
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238288
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238292
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238434
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238624
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238373
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238264
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238494
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+254760
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238543
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238756
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238446
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238353
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238295
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238546
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238357
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238477
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+239022
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238531
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238448
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238301
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238424
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+254570
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238405
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+294315
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+246767
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238312
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238785
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+262458
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238477
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238385
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238371
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238285
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+252901
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238284
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238443
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238446
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238437
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238284
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238506
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238298
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238681
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238486
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238449
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238297
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238316
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238670
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238513
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+268485
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238291
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238270
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238365
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238307
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238433
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238327
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238258
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238480
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238902
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238459
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+271867
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238393
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238279
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238265
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238359
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238413
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+249287
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238368
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238318
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238313
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238472
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238640
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238355
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238389
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238306
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238266
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238493
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238520
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238420
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238630
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238319
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238856
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238444
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238311
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+273784
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238603
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238435
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238375
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238328
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238290
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238357
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238328
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238268
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238269
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238279
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238483
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238349
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238346
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238302
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238355
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238286
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238290
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238333
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238273
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238433
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238740
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238417
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238327
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+249380
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238387
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+262847
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238459
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238259
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238295
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238334
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238613
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238582
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238794
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238567
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238273
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238661
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238395
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238224
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238558
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238713
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+239011
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238427
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238523
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238269
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238272
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238397
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238308
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238286
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238276
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238340
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238324
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238308
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238426
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+243970
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238447
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238299
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238456
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238300
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+251652
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238573
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238281
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238377
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238475
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238286
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238279
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238409
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238334
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238662
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+250947
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238665
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238446
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238559
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238362
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238526
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238298
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238264
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238398
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238414
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238318
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238342
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238275
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238323
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238568
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238327
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238273
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238359
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238282
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238417
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+262499
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238433
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238262
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238627
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238577
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238470
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238256
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238310
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238275
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238244
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238303
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238343
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238507
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238617
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238640
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238305
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238285
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238289
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238340
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238412
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238363
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238411
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+247531
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238468
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238293
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238344
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238426
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238272
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238278
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238423
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238309
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238424
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238244
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238364
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238474
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238497
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238571
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+247852
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238345
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238260
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238368
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238436
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238366
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238254
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238378
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238301
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238314
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238308
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238423
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238653
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238399
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238349
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238280
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238250
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+247466
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238274
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238383
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238277
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238281
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238300
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238398
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238439
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238317
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238422
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238413
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238465
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238277
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+249121
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238366
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238444
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238302
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238364
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238836
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238453
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238591
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238821
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238333
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238526
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238299
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238263
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238432
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238294
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238472
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238578
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238396
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238856
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238412
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238274
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238325
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238383
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238544
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238428
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238377
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238271
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238317
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238326
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238303
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238311
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238399
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+246132
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238311
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238303
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238320
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238453
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238349
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238505
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238305
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238476
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238333
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238284
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238577
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+242702
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238303
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238320
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238334
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238273
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238376
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238339
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238294
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238671
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238327
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238308
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238357
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238350
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238410
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238214
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238253
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238271
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238788
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238268
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238386
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238406
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238471
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238597
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238530
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238406
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238285
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238285
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238431
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238256
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238454
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238587
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238334
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238447
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238403
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238577
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238296
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238611
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238539
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+261701
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238382
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238431
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238330
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238324
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238289
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238467
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238423
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238526
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238656
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238421
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238372
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238336
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238544
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238298
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238245
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238305
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238308
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238366
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238558
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238283
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238599
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238419
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238288
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238356
+261050
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238320
+238287
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238300
+238289
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-254608
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238366
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238756
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238458
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238410
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238405
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238295
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238452
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238631
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-250989
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238342
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-254033
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238400
+238513
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238296
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-239017
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238515
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-247532
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238309
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238343
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238382
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238399
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-454884
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238289
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238300
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238262
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238576
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238273
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238260
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238290
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238270
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238621
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238323
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238514
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238269
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238266
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238261
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238308
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238547
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238557
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238429
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238364
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238237
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238276
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238300
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238269
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-256580
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238262
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238493
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238325
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238420
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238772
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238549
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238440
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238488
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238575
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238323
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-266901
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238447
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238304
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238734
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-458725
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238666
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238568
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238320
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-239100
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238495
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238384
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238297
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238305
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238354
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238407
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238473
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238908
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238282
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-260399
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238407
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238528
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238373
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238486
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-248684
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238548
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238519
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238273
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238425
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-257412
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238263
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238557
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238708
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238294
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238224
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238307
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238528
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238286
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238260
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238277
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238266
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238200
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238678
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238457
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238500
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238511
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238230
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238279
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238404
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238274
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238253
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238391
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238917
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-251014
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238615
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238371
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238281
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238431
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238455
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238573
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-242941
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238370
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238669
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238418
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238518
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238421
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238348
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238272
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-264778
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238269
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238370
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238375
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238456
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238402
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238321
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238310
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238451
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238640
+238368
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238451
+246987
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238294
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238242
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238322
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238310
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238622
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-267320
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238255
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238299
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238352
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238327
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238425
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238481
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238483
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238355
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238267
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238291
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238289
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238402
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-333535
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-333720
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238460
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238305
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238265
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238307
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238425
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238627
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238667
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238270
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238280
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238279
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-254624
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238596
-# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238324
+238331
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238469
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238287
+238309
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238483
+238574
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238263
+238296
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238347
+238275
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238580
+238273
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238312
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238297
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238615
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238532
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238782
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238380
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238292
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238416
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-266688
+238288
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238285
+238303
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238477
+238275
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238697
+238363
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238478
+238490
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238599
+238464
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238315
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238452
+238371
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238369
+238254
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238221
+238434
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238322
+238265
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238308
+238429
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238436
+238271
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238500
+238434
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238448
+238257
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238319
+238460
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238284
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238296
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238346
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238280
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238289
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238550
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238365
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+244638
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238522
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238493
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238421
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238242
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238333
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238294
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238341
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+278264
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238305
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238406
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238287
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238415
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238294
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238481
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238287
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238230
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238517
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238281
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238294
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238277
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238358
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238396
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+248345
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238630
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238478
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238300
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238283
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238360
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238430
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238309
+262219
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238395
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238564
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238675
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238442
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+238373
+# iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
+255270
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238287
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
 238285
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238446
+238279
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238248
+238246
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238491
+238546
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238291
+238458
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-267166
+238354
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238301
+238566
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238267
+238541
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238545
+238348
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238343
+238376
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238423
+238638
 # iters=100,elements=10,flops=1000000,comms=100,reads=500000,writes=500000,is_opt=true
-238323
+238283

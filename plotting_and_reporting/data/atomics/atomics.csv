@@ -1,0 +1,14 @@
+lang,op,mean
+CPP,add,103.97
+CPP,and,104.17
+CPP,cas,103.79
+CPP,nand,105.49
+CPP,or,103.67
+CPP,set,83.27
+CPP,sub,103.96
+Julia,add,119.9
+Julia,and,126.62
+Julia,cas,118.12
+Julia,nand,121.01
+Julia,or,120.92
+Julia,sub,120.19
