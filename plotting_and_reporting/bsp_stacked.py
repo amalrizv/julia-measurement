@@ -1,12 +1,15 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib as mpl
 from matplotlib import cm
 import itertools as it
 import logging 
 import os
 import sys
 
+# make hatches less annoyingly thick
+mpl.rcParams['hatch.linewidth'] = 0.15
 
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -51,14 +54,14 @@ class ExperimentFrame:
                 self.ops.append(op)
             if lang not in self.langs:
                 self.langs.append(lang)
-            if self.proc_counts not in self.proc_counts:
+            if proc_count not in self.proc_counts:
                 self.proc_counts.append(proc_count)
             if tp not in self.types:
                 self.types.append(tp)
 
-            self.proc_counts = sorted(self.proc_counts)
-            self.langs = sorted(self.langs)
-            self.ops = sorted(self.ops)
+            self.proc_counts = sorted(self.proc_counts, key=int)
+            self.langs       = sorted(self.langs)
+            self.ops         = sorted(self.ops)
 
 
     # Is this even a valid experiment combination?
@@ -142,8 +145,8 @@ class ExperimentFrame:
                                     # this is dumb. it assumes there will only be *one* unique element coutn
                                     # for all .dat files in the directory you pointed me to
                                     if line[0] == '#':
-                                        a,b,c = line.split(',', maxsplit=2)
-                                        elms,val = b.split('=')
+                                        a,b,c     = line.split(',', maxsplit=2)
+                                        elms,val  = b.split('=')
                                         self.elms = int(val)
                                         continue
 
@@ -169,7 +172,10 @@ class ExperimentFrame:
         f, ax = plt.subplots(1, figsize=(10,8))
 
         # Set up the color map 
-        colors = cm.inferno(np.linspace(0.1, 0.9, len(self.ops)))
+        colors = cm.plasma(np.linspace(0.1, 0.9, len(self.ops)))
+
+        # set up hatches
+        hatches = ['/', '.', 'o', '-', 'o', '#', '-', 'O']
 
         # we have one cluster of bars for each proc count
         bars  = self.proc_counts
@@ -206,9 +212,9 @@ class ExperimentFrame:
 
         print(seriesa)
         for i, op in enumerate(self.ops):
-            ax.bar(pos1, seriesa[op], bottom=bottoma, label=op, width=barwidth, edgecolor='white', color=colors[i])
-            ax.bar(pos2, seriesb[op], bottom=bottomb, label=op, width=barwidth, edgecolor='white', color=colors[i])
-            ax.bar(pos3, seriesc[op], bottom=bottomc, label=op, width=barwidth, edgecolor='white', color=colors[i])
+            ax.bar(pos1, seriesa[op], bottom=bottoma, label=op, width=barwidth, edgecolor='black', color=colors[i], alpha=0.8, hatch=hatches[i]*3, linewidth=0.25)
+            ax.bar(pos2, seriesb[op], bottom=bottomb, width=barwidth, edgecolor='black', color=colors[i], alpha=0.8, hatch=hatches[i]*3, linewidth=0.25)
+            ax.bar(pos3, seriesc[op], bottom=bottomc, width=barwidth, edgecolor='black', color=colors[i], alpha=0.8, hatch=hatches[i]*3, linewidth=0.25)
             bottoma += seriesa[op]
             bottomb += seriesb[op]
             bottomc += seriesc[op]
@@ -216,19 +222,25 @@ class ExperimentFrame:
 
         FONTSIZE=18
 
-        # Text on top of bars
-        [ax.text(p, 1, 'C', fontsize=FONTSIZE-1, rotation=30) for p in pos1]
-        [ax.text(p, 1, 'Julia', fontsize=FONTSIZE-1, rotation=30) for p in pos2]
-        [ax.text(p, 1, 'Julia (opt)', fontsize=FONTSIZE-1, rotation=30) for p in pos3]
+        # replaces X axis labels
+        loc=-0.015
+        rot=-90
+        [ax.text(p-barwidth/2, loc, 'C', fontsize=FONTSIZE-2, rotation=rot, va='top') for p in pos1]
+        [ax.text(p-barwidth/2, loc, 'Julia', fontsize=FONTSIZE-2, rotation=rot, va='top') for p in pos2]
+        [ax.text(p-barwidth/2, loc, 'Julia (opt)', fontsize=FONTSIZE-2, rotation=rot, va='top') for p in pos3]
 
         ax.set_xticks([r + barwidth for r in range(len(bars))])
-        ax.set_xticklabels(self.proc_counts, rotation=45, size=FONTSIZE)
+        ax.set_xticklabels(self.proc_counts, size=FONTSIZE)
         ax.set_xlabel("Total MPI Ranks", fontsize=FONTSIZE)
         ax.set_ylabel("Execution Time Breakdown", fontsize=FONTSIZE)
 
+        # move down proc labels so we can describe the language
+        ax.tick_params(axis='x', pad=100)
 
         ax.legend(loc="best", fontsize=FONTSIZE)
         #f.subplots_adjust(right=0.5, bottom=0.4)
+
+        plt.tight_layout()
 
         if of is None:
             plt.show()
@@ -239,5 +251,5 @@ class ExperimentFrame:
 dat_path    = sys.argv[1]
 output_file = sys.argv[2]
 
-ef = ExperimentFrame(dat_path)
+ef = ExperimentFrame(path=dat_path)
 ef.plot_stacked(of=output_file)
