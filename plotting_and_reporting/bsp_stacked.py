@@ -169,7 +169,7 @@ class ExperimentFrame:
     # * https://gist.github.com/ctokheim/6435202a1a880cfecd71
     def plot_stacked(self, barwidth=0.25, of=None):
 
-        f, ax = plt.subplots(1, figsize=(10,8))
+        f, ax = plt.subplots(1, figsize=(8,8))
 
         # Set up the color map 
         colors = cm.plasma(np.linspace(0.1, 0.9, len(self.ops)))
@@ -225,14 +225,15 @@ class ExperimentFrame:
         # replaces X axis labels
         loc=-0.015
         rot=-90
-        [ax.text(p-barwidth/2, loc, 'C', fontsize=FONTSIZE-2, rotation=rot, va='top') for p in pos1]
-        [ax.text(p-barwidth/2, loc, 'Julia', fontsize=FONTSIZE-2, rotation=rot, va='top') for p in pos2]
-        [ax.text(p-barwidth/2, loc, 'Julia (opt)', fontsize=FONTSIZE-2, rotation=rot, va='top') for p in pos3]
+        [ax.text(p-barwidth/2, loc, 'C', fontsize=FONTSIZE, rotation=rot, va='top') for p in pos1]
+        [ax.text(p-barwidth/2, loc, 'Julia', fontsize=FONTSIZE, rotation=rot, va='top') for p in pos2]
+        [ax.text(p-barwidth/2, loc, 'Julia (opt)', fontsize=FONTSIZE, rotation=rot, va='top') for p in pos3]
 
         ax.set_xticks([r + barwidth for r in range(len(bars))])
         ax.set_xticklabels(self.proc_counts, size=FONTSIZE)
         ax.set_xlabel("Total MPI Ranks", fontsize=FONTSIZE)
         ax.set_ylabel("Execution Time Breakdown", fontsize=FONTSIZE)
+        ax.tick_params(axis='y', size=FONTSIZE)
 
         # move down proc labels so we can describe the language
         ax.tick_params(axis='x', pad=100)
