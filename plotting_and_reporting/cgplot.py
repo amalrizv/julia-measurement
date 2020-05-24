@@ -24,8 +24,8 @@ from docopt import docopt
 import sys
 
 # make hatches less annoyingly thick
-mpl.rcParams['hatch.linewidth'] = 0.5
-barwidth = 0.25
+mpl.rcParams['hatch.linewidth'] = 0.3
+barwidth = 0.3
 
 BIGGER_SIZE = 18
 plt.rc('font', size=BIGGER_SIZE)          # controls default text sizes
@@ -68,8 +68,8 @@ def plot_total_time(proc_count,output, df):
     
     hatches = ['x','.','-', '/']
 
-    ax.bar(bar_pos_c, vals_c, label="C++", hatch=hatches[0], width=barwidth, color=color[0], edgecolor='black', linewidth=0.25)
-    ax.bar(bar_pos_j, vals_j, label="Julia", hatch=hatches[1], width=barwidth, color=color[1], edgecolor='black', linewidth=0.25)
+    ax.bar(bar_pos_c, vals_c, label="C++", hatch=hatches[0]*2, width=barwidth, color=color[0], edgecolor='black', linewidth=0.25)
+    ax.bar(bar_pos_j, vals_j, label="Julia", hatch=hatches[1]*2, width=barwidth, color=color[1], edgecolor='black', linewidth=0.25)
 
     ax.legend(loc='best')
     ax.set_xticks([r + (barwidth/2) for r in range(len(procs))])
