@@ -212,12 +212,10 @@ class ExperimentFrame:
         ax.set_xticklabels(self.proc_counts, size=FONTSIZE)
         ax.set_xlabel("Total MPI Ranks", fontsize=FONTSIZE)
         ax.set_ylabel("Execution Time (ms)", fontsize=FONTSIZE)
-        ax.tick_params(axis='y', size=FONTSIZE)
+        ax.tick_params(axis='y', labelsize=FONTSIZE-1)
 
         # move down proc labels so we can describe the language
         ax.tick_params(axis='x', pad=100)
-
-        ax.legend(loc="best", fontsize=FONTSIZE)
 
         plt.tight_layout()
 
