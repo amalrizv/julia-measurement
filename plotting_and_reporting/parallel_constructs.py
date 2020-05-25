@@ -52,5 +52,5 @@ exps        = ["c_pt_parfor", "c_omp_parfor", "julia_parallel_for", "julia_pmap"
 filenames   = ["data/thread-decomposition/" + x + ".dat" for x in exps]
 yaxis_title = "Latency (ns)"
 
-barplot_files(filenames, ["pthreads manual", "OMP parallel for", "Julia parallel for", "Julia pmap()"],  yaxis_title)
+barplot_files(filenames, ["pthreads manual", "OMP parallel for", "Julia distributed", "Julia pmap()"],  yaxis_title)
 
