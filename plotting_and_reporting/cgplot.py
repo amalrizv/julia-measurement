@@ -75,7 +75,7 @@ def plot_total_time(proc_count,output, df):
     ax.set_xticks([r + (barwidth/2) for r in range(len(procs))])
     ax.set_xticklabels(procs)
     ax.set_ylabel("Execution time (s)")
-    ax.set_xlabel("MPI Ranks")
+    ax.set_xlabel("MPI Ranks per Node")
     plt.axis('tight')
     plt.tight_layout()
     print(f"OK: output graph saved in: {output}")
